@@ -104,7 +104,7 @@ Both Mac and Windows versions include automatic update functionality:
 ## Support
 
 - **Website**: [backstagesuite.com](https://backstagesuite.com)
-- **Documentation**: [View Documentation](https://backstagesuite.com/docs)
+- **Documentation**: [View Documentation](https://backstagesuite.com/support)
 - **Report Issues**: [Create Issue](https://github.com/BlakeHenderson/Backstage-Suite-Desktop/issues)
 
 ## Privacy & Data
