@@ -76,6 +76,11 @@ Both Mac and Windows versions include automatic update functionality:
 
 ## Version History
 
+### v1.0.1 
+- 🔧 Improved Auto-Updater: Enhanced update checking with manual "Check for Updates" menu option
+- 🖥️ Better Update Notifications: More informative dialogs for update status and progress
+- 🎯 Enhanced Startup: Better initialization sequence with proper loading states
+
 ### v1.0.0 (Initial Release)
 - ✨ Full desktop application with native window controls
 - 🔄 Automatic updates
