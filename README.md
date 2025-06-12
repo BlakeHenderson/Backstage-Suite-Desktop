@@ -74,20 +74,6 @@ Both Mac and Windows versions include automatic update functionality:
 - **RAM**: 8GB or more
 - **Storage**: 1GB available space
 
-## Version History
-
-### v1.0.1 
-- 🔧 Improved Auto-Updater: Enhanced update checking with manual "Check for Updates" menu option
-- 🖥️ Better Update Notifications: More informative dialogs for update status and progress
-- 🎯 Enhanced Startup: Better initialization sequence with proper loading states
-
-### v1.0.0 (Initial Release)
-- ✨ Full desktop application with native window controls
-- 🔄 Automatic updates
-- 🖥️ Multi-platform support (macOS, Windows)
-- 🔔 Native notifications
-- ⚡ Fast startup and performance
-
 ## Troubleshooting
 
 ### macOS Issues
